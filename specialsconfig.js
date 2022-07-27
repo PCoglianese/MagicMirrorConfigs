@@ -1,4 +1,4 @@
-{
+specials:{
   monday:{
    bridget:'Music',
    calvin:'PE',
