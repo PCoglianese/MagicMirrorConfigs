@@ -1,22 +1,22 @@
-specials:{
-  monday:{
-   bridget:'Music',
-   calvin:'PE',
+'specials':{
+  'monday':{
+   'bridget':'Music',
+   'calvin':'PE',
   },
-  tuesday:{
-   bridget:'PE',
-   calvin:'Library',
+  'tuesday':{
+   'bridget':'PE',
+   'calvin':'Library',
   },
-  wedneday:{
-   bridget:'Library',
-   calvin:'PE',
+  'wedneday':{
+   'bridget':'Library',
+   'calvin':'PE',
   },
-  thursday:{
-   bridget:'PE',
-   calvin:'Art',
+  'thursday':{
+   'bridget':'PE',
+   'calvin':'Art',
   },
-  friday:{
-   bridget:'Library',
-   calvin:'Music',
+  'friday':{
+   'bridget':'Library',
+   'calvin':'Music',
   }
 }
