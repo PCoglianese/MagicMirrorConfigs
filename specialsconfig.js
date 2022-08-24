@@ -4,7 +4,7 @@
 			"bridget": {
 				"name": "Music",
 				"icon": "music"
-			}
+			},
 			"calvin": {
 				"name": "PE",
 				"icon": "basketball"
@@ -14,7 +14,7 @@
 			"bridget": {
 				"name": "Art",
 				"icon": "paint"
-			}
+			},
 			"calvin": {
 				"name": "Library",
 				"icon": "book"
@@ -24,7 +24,7 @@
 			"bridget": {
 				"name": "Library",
 				"icon": "book"
-			}
+			},
 			"calvin": {
 				"name": "PE",
 				"icon": "basketball"
@@ -34,7 +34,7 @@
 			"bridget": {
 				"name": "music",
 				"icon": "music"
-			}
+			},
 			"calvin": {
 				"name": "PE",
 				"icon": "basketball"
@@ -44,7 +44,7 @@
 			"bridget": {
 				"name": "PE",
 				"icon": "basketball"
-			}
+			},
 			"calvin": {
 				"name": "art",
 				"icon": "paint"
