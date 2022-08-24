@@ -1,24 +1,54 @@
 {
 	"specials": {
-		"monday": {
-			"bridget": "Music",
-			"calvin": "PE"
+		"Monday": {
+			"bridget": {
+				"name": "Music",
+				"icon": "music"
+			}
+			"calvin": {
+				"name": "PE",
+				"icon": "basketball"
+			}
 		},
-		"tuesday": {
-			"bridget": "PE",
-			"calvin": "Library"
+		"Tuesday": {
+			"bridget": {
+				"name": "Art",
+				"icon": "paint"
+			}
+			"calvin": {
+				"name": "Library",
+				"icon": "book"
+			}
 		},
-		"wedneday": {
-			"bridget": "Library",
-			"calvin": "PE"
+		"Wedneday": {
+			"bridget": {
+				"name": "Library",
+				"icon": "book"
+			}
+			"calvin": {
+				"name": "PE",
+				"icon": "basketball"
+			}
 		},
-		"thursday": {
-			"bridget": "PE",
-			"calvin": "Art"
+		"Thursday": {
+			"bridget": {
+				"name": "music",
+				"icon": "music"
+			}
+			"calvin": {
+				"name": "PE",
+				"icon": "basketball"
+			}
 		},
-		"friday": {
-			"bridget": "Library",
-			"calvin": "Music"
+		"Friday": {
+			"bridget": {
+				"name": "PE",
+				"icon": "basketball"
+			}
+			"calvin": {
+				"name": "art",
+				"icon": "paint"
+			}
 		}
 	}
 }
