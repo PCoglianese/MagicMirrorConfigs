@@ -13,17 +13,17 @@
 		"Tuesday": {
 			"bridget": {
 				"name": "Art",
-				"icon": "paintbrush-pencil"
+				"icon": "paintbrush"
 			},
 			"calvin": {
 				"name": "Library",
-				"icon": "book-open-cover"
+				"icon": "book-open-reader"
 			}
 		},
 		"Wedneday": {
 			"bridget": {
 				"name": "Library",
-				"icon": "book-open-cover"
+				"icon": "book-open-reader"
 			},
 			"calvin": {
 				"name": "PE",
@@ -47,7 +47,7 @@
 			},
 			"calvin": {
 				"name": "art",
-				"icon": "paintbrush-pencil"
+				"icon": "paintbrush"
 			}
 		}
 	}
