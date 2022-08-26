@@ -2,52 +2,52 @@
 	"specials": {
 		"Monday": {
 			"bridget": {
-				"name": "Music",
-				"icon": "music"
+				"name": "TBD",
+				"icon": "question"
 			},
 			"calvin": {
-				"name": "PE",
-				"icon": "basketball"
+				"name": "TBD",
+				"icon": "question"
 			}
 		},
 		"Tuesday": {
 			"bridget": {
-				"name": "Art",
-				"icon": "paintbrush"
+				"name": "TBD",
+				"icon": "question"
 			},
 			"calvin": {
-				"name": "Library",
-				"icon": "book-open-reader"
+				"name": "TBD",
+				"icon": "question"
 			}
 		},
 		"Wednesday": {
 			"bridget": {
-				"name": "Library",
-				"icon": "book-open-reader"
+				"name": "TBD",
+				"icon": "question"
 			},
 			"calvin": {
-				"name": "PE",
-				"icon": "basketball"
+				"name": "TBD",
+				"icon": "question"
 			}
 		},
 		"Thursday": {
 			"bridget": {
-				"name": "music",
-				"icon": "music"
+				"name": "TBD",
+				"icon": "question"
 			},
 			"calvin": {
-				"name": "PE",
-				"icon": "basketball"
+				"name": "TBD",
+				"icon": "question"
 			}
 		},
 		"Friday": {
 			"bridget": {
-				"name": "PE",
-				"icon": "basketball"
+				"name": "TBD",
+				"icon": "question"
 			},
 			"calvin": {
-				"name": "art",
-				"icon": "paintbrush"
+				"name": "TBD",
+				"icon": "question"
 			}
 		}
 	}
