@@ -20,7 +20,7 @@
 				"icon": "book-open-reader"
 			}
 		},
-		"Wedneday": {
+		"Wednesday": {
 			"bridget": {
 				"name": "Library",
 				"icon": "book-open-reader"
