@@ -6,8 +6,8 @@
 				"icon": "paintbrush"
 			},
 			"calvin": {
-				"name": "TBD",
-				"icon": "question"
+				"name": "P.E",
+				"icon": "basketball"
 			}
 		},
 		"Tuesday": {
@@ -16,8 +16,8 @@
 				"icon": "basketball"
 			},
 			"calvin": {
-				"name": "TBD",
-				"icon": "question"
+				"name": "Music",
+				"icon": "music"
 			}
 		},
 		"Wednesday": {
@@ -26,8 +26,8 @@
 				"icon": "music"
 			},
 			"calvin": {
-				"name": "TBD",
-				"icon": "question"
+				"name": "Art",
+				"icon": "paintbrush"
 			}
 		},
 		"Thursday": {
@@ -36,8 +36,8 @@
 				"icon": "book-open-reader"
 			},
 			"calvin": {
-				"name": "TBD",
-				"icon": "question"
+				"name": "P.E.",
+				"icon": "basketball"
 			}
 		},
 		"Friday": {
@@ -46,8 +46,8 @@
 				"icon": "basketball"
 			},
 			"calvin": {
-				"name": "TBD",
-				"icon": "question"
+				"name": "Library",
+				"icon": "book-open-reader"
 			}
 		}
 	}
