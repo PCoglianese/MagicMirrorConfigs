@@ -1,8 +1,8 @@
 {
 	"summer":[
 		{
-		"starts" : "6/30",
-		"ends" : "7/6",
+		"starts" : "06/30/2024",
+		"ends" : "07/06/2024",
 		"activities" : [
 			{
 				"who" : "Family",
@@ -13,8 +13,8 @@
 			]
 		},
 		{
-		"starts" : "7/7",
-		"ends" : "7/13",
+		"starts" : "07/07/2024",
+		"ends" : "07/13/2024",
 		"activities" : [
 			{
 			"who" : "Calvin",
