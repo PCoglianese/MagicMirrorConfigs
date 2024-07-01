@@ -1,6 +1,18 @@
 {
 	"summer":[
 		{
+		"starts" : "06/23/2024",
+		"ends" : "06/29/2024",
+		"activities" : [
+			{
+				"who" : "Twins",
+				"what" : "Summah Camp",
+				"where" : "Teamworks",
+				"when" : "Monday - Friday"
+			}
+			]
+		},
+		{
 		"starts" : "06/30/2024",
 		"ends" : "07/06/2024",
 		"activities" : [
