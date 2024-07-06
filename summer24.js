@@ -46,6 +46,12 @@
 		"starts" : "07/14/2024",
 		"ends" : "07/20/2024",
 		"activities" : [
+			{
+			"who" : "B & C",
+			"what" : "Playground Camp",
+			"where" : "Fales",
+			"when" : "M-F 8:00 - 12:00am"
+			}			
 			]
 		},
 		{
