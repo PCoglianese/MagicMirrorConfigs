@@ -63,7 +63,13 @@
 			"what" : "Soccer Camp",
 			"where" : "Westborough HS",
 			"when" : "M-F 9:00 - 12:00am"
-			}
+			},
+			{
+			"who" : "Calvin",
+			"what" : "Golf Camp",
+			"where" : "M & Th: Golf course, T & W: Gibbons",
+			"when" : "M-Th 9:00 - 12:00am"
+			}			
 			]
 		},
 		{
