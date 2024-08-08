@@ -91,9 +91,15 @@
 			]
 		},
 		{
-		"starts" : "08/01/2024",
+		"starts" : "08/11/2024",
 		"ends" : "08/17/2024",
 		"activities" : [
+			{
+			"who" : "Calvin",
+			"what" : "NEFC Clinic",
+			"where" : "NEFC Northborough",
+			"when" : "Tu-Th 9:00 - 12:00am"
+			}			
 			]
 		},
 		{
