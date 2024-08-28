@@ -2,22 +2,22 @@
 	"specials": {
 		"Monday": {
 			"bridget": {
-				"name": "Music",
-				"icon": "music"
+				"name": "Library",
+				"icon": "book-open-reader"
 			},
 			"calvin": {
-				"name": "P.E",
-				"icon": "basketball"
+				"name": "Library,
+				"icon": "book-open-reader"
 			}
 		},
 		"Tuesday": {
-			"bridget": {
+			"Bridget": {
 				"name": "P.E.",
 				"icon": "basketball"
 			},
-			"calvin": {
-				"name": "Library",
-				"icon": "book-open-reader"
+			"Calvin": {
+				"name": "P.E.",
+				"icon": "basketball"
 			}
 		},
 		"Wednesday": {
@@ -26,8 +26,8 @@
 				"icon": "basketball"
 			},
 			"calvin": {
-				"name": "Art",
-				"icon": "paintbrush"
+				"name": "Music",
+				"icon": "music"
 			}
 		},
 		"Thursday": {
@@ -36,8 +36,8 @@
 				"icon": "paintbrush"
 			},
 			"calvin": {
-				"name": "P.E.",
-				"icon": "basketball"
+				"name": "Art",
+				"icon": "paintbrush"
 			}
 		},
 		"Friday": {
@@ -46,8 +46,8 @@
 				"icon": "book-open-reader"
 			},
 			"calvin": {
-				"name": "Music",
-				"icon": "music"
+				"name": "P.E.",
+				"icon": "basketball"
 			}
 		}
 	}
